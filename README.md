@@ -6,7 +6,7 @@
 
 | 구분     | 진행상태           | 학습시간 | 분야     | 문제이름                                          | 비고 |
 | -------- | ------------------ | -------- | -------- | ------------------------------------------------- | ---- |
-| BOJ1012  | :white_check_mark: | 1        | 알고리즘 | [유기농배추](AlgorithmStudy/6월*23일/BOJ1012.java) |      |
+| BOJ1012  | :white_check_mark: | 1        | 알고리즘 | [유기농배추](AlgorithmStudy/6월 23일/BOJ1012.java) |      |
 | BOJ1764  | :white_check_mark: |          | 알고리즘 | [듣보잡](AlgorithmStudy/6월*23일/BOJ1764.java)     |      |
 | BOJ18870 | :white_check_mark: |          | 알고리즘 | [좌표압축](AlgorithmStudy/6월*23일/BOJ18870.java)  |      |
 
