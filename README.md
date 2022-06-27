@@ -40,3 +40,12 @@
 | BOJ1932  | :white_check_mark: |          | 알고리즘 | [정수삼각형](AlgorithmStudy/0626/BOJ1932.java) |      |
 
 ---
+
+### [2022-06-27](AlgorithmStudy/0627)
+
+| 구분     | 진행상태           | 학습시간 | 분야     | 문제이름                                  | 비고 |
+| -------- | ------------------ | -------- | -------- | ----------------------------------------- | ---- |
+| BOJ10172 | :white_check_mark: |          | 알고리즘 | [개](AlgorithmStudy/0627/BOJ10172.java)   |      |
+| BOJ10998 | :white_check_mark: |          | 알고리즘 | [A\*B](AlgorithmStudy/0627/BOJ10998.java) |      |
+
+---
