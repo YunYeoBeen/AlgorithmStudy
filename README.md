@@ -49,3 +49,13 @@
 | BOJ10998 | :white_check_mark: |          | 알고리즘 | [A\*B](AlgorithmStudy/0627/BOJ10998.java) |      |
 
 ---
+
+### [2022-06-28](AlgorithmStudy/0628)
+
+| 구분     | 진행상태           | 학습시간 | 분야     | 문제이름                                               | 비고 |
+| -------- | ------------------ | -------- | -------- | ------------------------------------------------------ | ---- |
+| BOJ1259  | :white_check_mark: |          | 알고리즘 | [팰린드룸수](AlgorithmStudy/0628/BOJ1259.java)         |      |
+| BOJ1018  | :white_check_mark: |          | 알고리즘 | [체스판*다시*칠하기](AlgorithmStudy/0628/BOJ1259.java) |      |
+| BOJ18111 | :white_check_mark: |          | 알고리즘 | [마인크래프트](AlgorithmStudy/0628/BOJ18111.java)      |      |
+
+---
