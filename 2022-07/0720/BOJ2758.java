@@ -1,7 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-
 public class BOJ2758 {
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -22,8 +21,9 @@ public class BOJ2758 {
                     nums[j][k]=nums[j-1][k/2]+nums[j][k-1];
                 }
             }
-            System.out.println(sb.append(nums[n][m]));
+            sb.append(nums[n][m]).append("\n");
         }
+        System.out.println(sb.toString());
 
     }
 }
