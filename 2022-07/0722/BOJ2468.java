@@ -33,19 +33,7 @@ public class BOJ2468 {
         }
         int cnt = Integer.MIN_VALUE;
         for (int i = 0; i < maxHeight + 1; i++) {
-            visited = new boolean[N][N];
-            int check = 0;
-            for (int j = 0; j < N; j++) {
-                for (int k = 0; k < N; k++) {
-                    if (!visited[j][k] && maps[j][k] > i) {
-                        bfs(j,k,i);
-                        check++;
-                    } else {
-                        continue;
-                    }
-                }
-            }
-            cnt = Math.max(check, cnt);
+
         }
         System.out.println(cnt);
 
